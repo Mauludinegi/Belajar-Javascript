@@ -1,0 +1,11 @@
+Object: struktur data yang dapat menyimpan banyak informasi dengan format key-value.
+        Key pada objek harus bertipe data string.
+
+Array:  Merupakan Struktur data juga yang dapat menyimpan banyak data didalamnya 
+        dan disusun berurutan dengan index yang berbeda.
+        Untuk mengakses array maka harus menggunakan index
+
+Map  :  Map sama dengan tipe data Object. 
+        Namun yang membedakan antara Map dan Object adalah tipe data map keynya dapat berupa apapun.
+
+Set  :  Set merupakan tipe data yang tidak mengizinkan adanya duplikasi data dan tidak dapat diakses dengan index
