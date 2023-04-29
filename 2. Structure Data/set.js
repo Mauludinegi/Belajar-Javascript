@@ -20,3 +20,9 @@ console.log(animal);
 animal.delete('lion');
 animal.delete('girafe');
 console.log(animal);
+
+console.log(animal.values());
+console.log();
+
+//check is value exist
+console.log(animal.has('lion'));
