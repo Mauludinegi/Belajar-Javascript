@@ -26,3 +26,7 @@ capital.set('Seoul', "Korea");
 
 console.log(capital.size);
 console.log(capital.get('Seoul'));
+
+//accessing map with function map.key() will return back in Map Iterator
+console.log(capital.keys());
+console.log(capital.values());
