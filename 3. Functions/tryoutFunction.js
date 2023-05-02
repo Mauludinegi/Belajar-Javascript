@@ -29,3 +29,4 @@ function minimal(a, b) {
 console.log(minimal(3, 1));
 
 const power = (a, b) => a ** b;
+
